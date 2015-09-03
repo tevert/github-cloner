@@ -1,0 +1,19 @@
+{
+  "name": "github-cloner",
+  "main": "./lib/github-cloner",
+  "version": "0.0.0",
+  "description": "Searches and clones repositories on Github",
+  "keywords": [
+    "git", "github", "clone"
+  ],
+  "activationCommands": {
+    "atom-workspace": "github-cloner:toggle"
+  },
+  "repository": "https://github.com/tevert/github-cloner",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
